@@ -1,0 +1,84 @@
+name: Data Privacy Standards Vocabulary
+description: >-
+  Vocabulary of regulatory and technical concepts used in privacy
+  programs, drawn from GDPR, CCPA, ISO 27701, NIST, IAB, W3C DPV, and
+  related sources.
+terms:
+  - term: Personal Data
+    definition: >-
+      Any information relating to an identified or identifiable natural
+      person, the core subject of most privacy laws.
+  - term: Sensitive Personal Data
+    definition: >-
+      Categories of personal data such as health, biometrics, genetic
+      data, sexual orientation, or political views that receive heightened
+      protection.
+  - term: Data Subject
+    definition: >-
+      The natural person to whom personal data relates.
+  - term: Data Controller
+    definition: >-
+      The entity that determines the purposes and means of processing
+      personal data.
+  - term: Data Processor
+    definition: >-
+      The entity that processes personal data on behalf of a controller.
+  - term: Lawful Basis
+    definition: >-
+      The legal ground (consent, contract, legitimate interest, legal
+      obligation, vital interest, public task) that justifies processing
+      under GDPR.
+  - term: Consent
+    definition: >-
+      Freely given, specific, informed, and unambiguous indication of
+      agreement to process personal data.
+  - term: Data Subject Rights
+    definition: >-
+      Rights granted to individuals such as access, rectification,
+      erasure, portability, objection, and restriction of processing.
+  - term: Data Protection Impact Assessment
+    definition: >-
+      A documented analysis of privacy risks for high-risk processing
+      activities.
+  - term: Records of Processing Activities
+    definition: >-
+      The internal register of processing activities required of
+      controllers and processors under GDPR Article 30.
+  - term: Cross-Border Data Transfer
+    definition: >-
+      The transfer of personal data outside a jurisdiction, governed by
+      mechanisms like Standard Contractual Clauses or adequacy decisions.
+  - term: Privacy by Design
+    definition: >-
+      The principle of embedding privacy protections into systems and
+      processes from inception.
+  - term: Data Minimization
+    definition: >-
+      The practice of collecting only the personal data necessary for a
+      specified purpose.
+  - term: Purpose Limitation
+    definition: >-
+      The principle that personal data must be collected for specified,
+      explicit, and legitimate purposes.
+  - term: Anonymization
+    definition: >-
+      Irreversible removal of identifiers so that data subjects can no
+      longer be identified.
+  - term: Pseudonymization
+    definition: >-
+      Replacement of identifiers with reversible tokens to reduce
+      linkability while retaining utility.
+  - term: Breach Notification
+    definition: >-
+      The obligation to notify regulators and affected individuals of
+      personal data breaches within prescribed time frames.
+  - term: Data Protection Officer
+    definition: >-
+      A designated role responsible for overseeing privacy compliance.
+  - term: Global Privacy Control
+    definition: >-
+      A browser-based signal expressing a user's opt-out preference
+      under CCPA and similar laws.
+  - term: Transparency and Consent Framework
+    definition: >-
+      The IAB framework for managing user consent in digital advertising.
