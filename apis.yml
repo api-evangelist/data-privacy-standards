@@ -7,8 +7,7 @@ description: >-
   PIPL, HIPAA, ISO/IEC 27701, NIST Privacy Framework, OECD Privacy
   Principles, and emerging machine-readable consent and preference
   signals such as IAB TCF, GPC, and W3C DPV.
-type: Topic
-xType: topic
+kind: topic
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
