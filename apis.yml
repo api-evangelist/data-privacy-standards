@@ -51,11 +51,11 @@ common:
     description: US Health Insurance Portability and Accountability Act privacy rule.
   - url: https://www.iso.org/standard/71670.html
     name: ISO/IEC 27701
-    type: Standard
+    type: Standards
     description: Privacy Information Management System extension to ISO/IEC 27001.
   - url: https://www.iso.org/standard/71670.html
     name: ISO/IEC 29100
-    type: Standard
+    type: Standards
     description: Privacy framework providing a high-level reference model.
   - url: https://www.nist.gov/privacy-framework
     name: NIST Privacy Framework
@@ -71,15 +71,15 @@ common:
     description: International Association of Privacy Professionals.
   - url: https://iabtechlab.com/standards/gpp/
     name: IAB GPP
-    type: Standard
+    type: Standards
     description: IAB Global Privacy Platform consent signaling protocol.
   - url: https://globalprivacycontrol.org/
     name: Global Privacy Control
-    type: Standard
+    type: Standards
     description: Browser-level signal expressing user opt-out of data sales/sharing.
   - url: https://www.w3.org/TR/dpv/
     name: W3C Data Privacy Vocabulary
-    type: Standard
+    type: Standards
     description: W3C DPV vocabulary for expressing privacy and consent metadata.
   - url: https://edpb.europa.eu/
     name: European Data Protection Board
