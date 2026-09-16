@@ -1,5 +1,6 @@
 aid: data-privacy-standards
 name: Data Privacy Standards
+# above OneTrust and Didomi. These entities are modelled properly at
 description: >-
   Data Privacy Standards is the landscape of laws, regulations, frameworks,
   and technical standards that govern the collection, processing, sharing,
