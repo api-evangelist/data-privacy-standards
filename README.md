@@ -1,4 +1,4 @@
-# Data Privacy Standards (data-privacy-standards)
+# data-privacy-standards
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,65 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Data Privacy Standards is the landscape of laws, regulations, frameworks, and technical standards that govern the collection, processing, sharing, and protection of personal data. It spans GDPR, CCPA/CPRA, LGPD, PIPEDA, PIPL, HIPAA, ISO/IEC 27701, NIST Privacy Framework, OECD Privacy Principles, and emerging machine-readable consent and preference signals such as IAB TCF, GPC, and W3C DPV.
+## data-privacy-standards on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/data-privacy-standards/refs/heads/main/apis.yml)
+Everything profiled for data-privacy-standards is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/data-privacy-standards/](https://apis.io/providers/data-privacy-standards/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Topic
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/data-privacy-standards/](https://apis.io/providers/data-privacy-standards/).
 
-## Tags
+## How this profile is made
 
-- Compliance
-- Data Privacy
-- Data Protection
-- Governance
-- Privacy Standards
-- Regulation
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for data-privacy-standards: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-30
+## Open an issue
 
-## Common Resources
-
-### Regulations
-
-- [GDPR](https://gdpr.eu/)
-- [CCPA / CPRA](https://oag.ca.gov/privacy/ccpa)
-- [LGPD](https://www.gov.br/anpd/pt-br)
-- [PIPEDA](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/the-personal-information-protection-and-electronic-documents-act-pipeda/)
-- [PIPL](https://www.gov.cn/zhengce/2021-08/20/content_5632486.htm)
-- [HIPAA](https://www.hhs.gov/hipaa/index.html)
-
-### Standards & Frameworks
-
-- [ISO/IEC 27701](https://www.iso.org/standard/71670.html)
-- [ISO/IEC 29100](https://www.iso.org/standard/71670.html)
-- [NIST Privacy Framework](https://www.nist.gov/privacy-framework)
-- [OECD Privacy Principles](https://www.oecd.org/digital/ieconomy/privacy.htm)
-
-### Machine-Readable Privacy Signals
-
-- [IAB GPP](https://iabtechlab.com/standards/gpp/)
-- [Global Privacy Control](https://globalprivacycontrol.org/)
-- [W3C Data Privacy Vocabulary](https://www.w3.org/TR/dpv/)
-
-### Authorities & Communities
-
-- [European Data Protection Board](https://edpb.europa.eu/)
-- [IAPP](https://iapp.org/)
-
-### Reference
-
-- [Vocabulary](vocabulary/data-privacy-standards-vocabulary.yml)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/data-privacy-standards/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
